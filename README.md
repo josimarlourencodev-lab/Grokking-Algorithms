@@ -1,2 +1,3 @@
-# Entendendo-Algoritmos
-entendendo algoritmos entendendo algoritmos: um guia ilustrado para programadores e outros curiosos
+#Grokking-Algorithms
+
+Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People
